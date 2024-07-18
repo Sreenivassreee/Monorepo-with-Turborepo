@@ -1,1 +1,1 @@
-console.log("HEllo")
+export * from '@prisma/client';
